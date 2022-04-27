@@ -2,7 +2,7 @@
 
 - 👀 Programador Full-Stack
 - 🌱 Estudando TypeScript
-- 📫 E-mail de contato: contatokaualucio@gmail.com
+- 📫 E-mail de contato: kauadefreitas.s992@gmail.com
 
 <!-- <div >
   <a href="https://github.com/KauaLucio">
