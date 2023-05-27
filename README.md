@@ -1,7 +1,6 @@
 #  Oi! Meu nome é Kauã 👋
 
 - 👀 Programador Full-Stack
-- 👩🏻‍💻 Apaixonado por tecnologia
 - 📫 E-mail de contato: kauadefreitas.s992@gmail.com
 
 <div >
