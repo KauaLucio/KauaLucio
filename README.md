@@ -1,10 +1,10 @@
 #  Oi! Meu nome é Kauã 👋
 
-- 👀 Programador Full-Stack
+- 👀 Programador Full-Stack Jr
 - 📫 E-mail de contato: kauadefreitas.s992@gmail.com
 
 <div >
-  <a href="https://github.com/KauaLucio">
+  <a href="https://github.com/kaualucio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaualucio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaualucio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
